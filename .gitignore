@@ -17,5 +17,5 @@ test.py
 
 data
 *./data
-*.png
+# *.png
 *.zip
