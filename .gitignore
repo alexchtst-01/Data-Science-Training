@@ -15,7 +15,7 @@ bin/
 */test.py
 test.py
 
-data
-*./data
+# data
+# *./data
 # *.png
-*.zip
+# *.zip
